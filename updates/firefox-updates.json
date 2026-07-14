@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "extension@n-suite.dev": {
+      "updates": [
+        {
+          "version": "5.2.14",
+          "update_link": "https://n-suite.github.io/downloads/extension/firefox-extension.xpi",
+          "update_hash": "sha256:33283c7cc73b27afc385ce6258d80e62531ccf8eeeb0a96899726abe4c8f63ca"
+        }
+      ]
+    }
+  }
+}
